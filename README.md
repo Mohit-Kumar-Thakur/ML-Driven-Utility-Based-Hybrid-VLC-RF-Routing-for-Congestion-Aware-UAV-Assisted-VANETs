@@ -204,12 +204,6 @@ Move into the project directory
 cd ML-Driven-Hybrid-VLC-RF-Routing
 ```
 
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 Launch Jupyter Notebook
 
 ```bash
