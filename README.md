@@ -254,12 +254,6 @@ Future enhancements include:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Acknowledgements
 
 This project was developed as part of undergraduate research in Machine Learning, Intelligent Transportation Systems, and Vehicular Ad Hoc Networks.
