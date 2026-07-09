@@ -61,13 +61,7 @@ ML-Driven-Hybrid-VLC-RF-Routing/
 │   ├── delay.png
 │   └── congestion_index.png
 │
-├── results/
-│
-├── docs/
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
+└── README.md
 ```
 
 ---
