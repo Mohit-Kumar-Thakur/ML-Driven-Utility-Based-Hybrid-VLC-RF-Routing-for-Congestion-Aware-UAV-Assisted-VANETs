@@ -1,5 +1,13 @@
 # ML-Driven Utility-Based Hybrid VLC-RF Routing for Congestion-Aware UAV-Assisted VANETs
 
+<p align="center">
+  <a href="https://<your-username>.github.io/ML-Driven-Hybrid-VLC-RF-Routing/">
+    <img alt="View interactive version" src="https://img.shields.io/badge/✨_View-Interactive_Version-4cc9f0?style=for-the-badge&labelColor=0a0e17">
+  </a>
+</p>
+
+> 💡 **Prefer visuals?** This README also has an [interactive, animated version](https://<your-username>.github.io/ML-Driven-Hybrid-VLC-RF-Routing/) with scroll animations, an animated VLC/RF link demo, and live result charts. GitHub can't render the animations inline, so it's hosted separately via GitHub Pages — the plain-text version below is unchanged and always the source of truth.
+
 A machine learning-driven hybrid VLC-RF routing framework for congestion-aware UAV-assisted Vehicular Ad Hoc Networks (VANETs). The framework combines Random Forest-based link reliability prediction with utility-based routing to improve communication reliability, throughput, and latency under dynamic vehicular environments.
 
 ---
